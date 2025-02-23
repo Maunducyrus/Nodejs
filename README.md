@@ -11,3 +11,7 @@ What is recommended to learn before diving deep into Nodejs
 - this Operator
 - Arrow Functions
 - Loops
+- Scopes
+- Arrrays
+- Template Literals
+- Strict Mode
