@@ -15,3 +15,4 @@ What is recommended to learn before diving deep into Nodejs
 - Arrrays
 - Template Literals
 - Strict Mode
+- ECMAScript 2015 and beyond
