@@ -16,3 +16,11 @@ What is recommended to learn before diving deep into Nodejs
 - Template Literals
 - Strict Mode
 - ECMAScript 2015 and beyond
+
+Asynchronous Programming
+- Asynchronous programming and callbacks
+- Timers
+- Promises
+- Async and Await
+- Closures
+- The Event Loop
