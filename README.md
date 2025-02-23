@@ -7,3 +7,7 @@ What is recommended to learn before diving deep into Nodejs
 - Data Types
 - Classes
 - Variables
+- Functions
+- this Operator
+- Arrow Functions
+- Loops
