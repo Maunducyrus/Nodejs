@@ -28,4 +28,5 @@ server.listen(port, hostname, () => {
 
 function comment() {
     //This is a one line Javascript comment
+    console.log("Hello world!");
 }
