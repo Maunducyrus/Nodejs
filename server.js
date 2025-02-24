@@ -18,9 +18,10 @@ server.listen(port, hostname, () => {
 // Lexical grammar - lexical analysis
 
 // They include ;-
-- comments
-- white space
-- identifiers
-- keywords
-- literals
-- punctuators(operators)
+
+// - comments
+// - white space
+// - identifiers
+// - keywords
+// - literals
+// - punctuators(operators)
