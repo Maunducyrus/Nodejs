@@ -30,3 +30,7 @@ function comment() {
     //This is a one line Javascript comment
     console.log("Hello world!");
 }
+
+function comment() {
+    
+}
