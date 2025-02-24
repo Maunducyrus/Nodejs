@@ -27,5 +27,5 @@ server.listen(port, hostname, () => {
 // - punctuators(operators)
 
 function comment() {
-    
+    //This is a one line Javascript comment
 }
