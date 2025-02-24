@@ -25,3 +25,7 @@ server.listen(port, hostname, () => {
 // - keywords
 // - literals
 // - punctuators(operators)
+
+function comment() {
+    
+}
