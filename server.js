@@ -15,6 +15,6 @@ server.listen(port, hostname, () => {
     console.log('Hello World');
 });
 
-// Lexical grammar
+// Lexical grammar - lexical analysis
 
 // They include ;-
