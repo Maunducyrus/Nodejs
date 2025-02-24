@@ -35,3 +35,7 @@ function comment() {
     /* This is a one line JavaScript comment */
     console.log("Hello World");
 }
+
+// identifiers
+
+// An identifier is used to link a value with a name.
