@@ -47,5 +47,5 @@ const obj = {key: "value"}; //Object keys
 
 // class declaration
 class C {
-    #priv = "value";
+    #priv = "value"; //private property
 }
