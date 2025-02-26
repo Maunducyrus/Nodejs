@@ -39,3 +39,4 @@ function comment() {
 // identifiers
 
 // An identifier is used to link a value with a name.
+const decl = 1; // variable declaration (may also be a 'let' or 'var' declaration)
