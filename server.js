@@ -44,3 +44,5 @@ const decl = 1; // variable declaration (may also be a 'let' or 'var' declaratio
 function func() {} // function declaration
 
 const obj = {key: "value"}; //Object keys
+
+// class declaration
