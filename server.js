@@ -49,3 +49,4 @@ const obj = {key: "value"}; //Object keys
 class C {
     #priv = "value"; //private property
 }
+lb1: console.log("Hello World"); //label
