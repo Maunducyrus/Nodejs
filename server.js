@@ -46,3 +46,6 @@ function func() {} // function declaration
 const obj = {key: "value"}; //Object keys
 
 // class declaration
+class C {
+    #priv = "value";
+}
